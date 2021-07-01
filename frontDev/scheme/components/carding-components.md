@@ -121,7 +121,6 @@
     ```
 
   - 应用或策略详情
-    <img scr="./img/detail.png">
     ![应用或策略详情](/images/detail.png)
     * 图标展示
 
